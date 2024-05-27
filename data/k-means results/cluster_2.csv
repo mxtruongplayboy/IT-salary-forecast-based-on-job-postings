@@ -8,8 +8,8 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 16500000.0,Nhân viên,1 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
 10000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 18000000.0,Nhân viên,Dưới 1 năm,javascript,tiếng anh,vi,Hồ Chí Minh,2
-15000000.0,Nhân viên,2 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,2 năm,php,Không yêu cầu,vi,Hồ Chí Minh,2
+15000000.0,Nhân viên,2 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,1 năm,javascript,tiếng anh,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,Không yêu cầu kinh nghiệm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 12000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -27,9 +27,9 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 16000000.0,Nhân viên,2 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,2 năm,php,Không yêu cầu,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,2 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
-34500000.0,Nhân viên,Trên 5 năm,java,tiếng anh,vi,Hồ Chí Minh,2
-34500000.0,Nhân viên,Trên 5 năm,javascript,tiếng anh,vi,Hồ Chí Minh,2
 34500000.0,Nhân viên,Trên 5 năm,c#,tiếng anh,vi,Hồ Chí Minh,2
+34500000.0,Nhân viên,Trên 5 năm,javascript,tiếng anh,vi,Hồ Chí Minh,2
+34500000.0,Nhân viên,Trên 5 năm,java,tiếng anh,vi,Hồ Chí Minh,2
 14000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 30800000.0,Nhân viên,3 năm,java,tiếng anh,vi,Hồ Chí Minh,2
 28500000.0,Nhân viên,4 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -42,9 +42,9 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 8000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 11000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 11000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-20500000.0,Nhân viên,3 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 20500000.0,Nhân viên,3 năm,php,Không yêu cầu,vi,Hồ Chí Minh,2
 20500000.0,Nhân viên,3 năm,c++,Không yêu cầu,vi,Hồ Chí Minh,2
+20500000.0,Nhân viên,3 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 8000000.0,Nhân viên,Dưới 1 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
 11000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 11000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -93,8 +93,8 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 18000000.0,Nhân viên,2 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 11000000.0,Nhân viên,1 năm,php,tiếng anh,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-8500000.0,Nhân viên,Dưới 1 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 8500000.0,Nhân viên,Dưới 1 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
+8500000.0,Nhân viên,Dưới 1 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 25500000.0,Trưởng nhóm,Trên 5 năm,php,Không yêu cầu,vi,Hồ Chí Minh,2
 25500000.0,Trưởng nhóm,Trên 5 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
 2000000.0,Thực tập sinh,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -114,8 +114,8 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 7000000.0,Nhân viên,Dưới 1 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 35000000.0,Nhân viên,2 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 1500000.0,Thực tập sinh,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-17500000.0,Nhân viên,1 năm,python,tiếng anh,vi,Khác,2
 17500000.0,Nhân viên,1 năm,php,tiếng anh,vi,Khác,2
+17500000.0,Nhân viên,1 năm,python,tiếng anh,vi,Khác,2
 13500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 27500000.0,Trưởng nhóm,3 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 10000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -150,9 +150,9 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 15000000.0,Nhân viên,Dưới 1 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 10000000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 11500000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-30000000.0,Nhân viên,3 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
-30000000.0,Nhân viên,3 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 30000000.0,Nhân viên,3 năm,php,Không yêu cầu,vi,Hồ Chí Minh,2
+30000000.0,Nhân viên,3 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
+30000000.0,Nhân viên,3 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 17250000.0,Nhân viên,2 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 7500000.0,Thực tập sinh,Không yêu cầu kinh nghiệm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,tiếng anh,vi,Hồ Chí Minh,2
@@ -217,9 +217,9 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 8000000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 18500000.0,Nhân viên,2 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 10500000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-22500000.0,Nhân viên,2 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
-22500000.0,Nhân viên,2 năm,c++,Không yêu cầu,vi,Hồ Chí Minh,2
 22500000.0,Nhân viên,2 năm,c#,Không yêu cầu,vi,Hồ Chí Minh,2
+22500000.0,Nhân viên,2 năm,c++,Không yêu cầu,vi,Hồ Chí Minh,2
+22500000.0,Nhân viên,2 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 20000000.0,Trưởng nhóm,3 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 8500000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 11000000.0,Nhân viên,2 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -230,10 +230,10 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 18500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,1 năm,php,tiếng anh,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,1 năm,javascript,tiếng anh,vi,Hồ Chí Minh,2
-9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,python,tiếng anh,vi,Hồ Chí Minh,2
 9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,php,tiếng anh,vi,Hồ Chí Minh,2
-22500000.0,Nhân viên,Không yêu cầu kinh nghiệm,python,Không yêu cầu,vi,Hồ Chí Minh,2
+9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,python,tiếng anh,vi,Hồ Chí Minh,2
 22500000.0,Nhân viên,Không yêu cầu kinh nghiệm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
+22500000.0,Nhân viên,Không yêu cầu kinh nghiệm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 17500000.0,Nhân viên,1 năm,php,Không yêu cầu,vi,Hồ Chí Minh,2
 25500000.0,Trưởng nhóm,3 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 10000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -241,11 +241,11 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 13500000.0,Quản lý / Giám sát,2 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 11500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-30000000.0,Nhân viên,3 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 30000000.0,Nhân viên,3 năm,kotlin,Không yêu cầu,vi,Hồ Chí Minh,2
+30000000.0,Nhân viên,3 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 10000000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-17000000.0,Nhân viên,2 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 17000000.0,Nhân viên,2 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
+17000000.0,Nhân viên,2 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,1 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 16500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 10500000.0,Nhân viên,2 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -259,14 +259,14 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 8500000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 16500000.0,Nhân viên,3 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 16500000.0,Nhân viên,1 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
-19000000.0,Nhân viên,Dưới 1 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 19000000.0,Nhân viên,Dưới 1 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
+19000000.0,Nhân viên,Dưới 1 năm,java,Không yêu cầu,vi,Hồ Chí Minh,2
 17500000.0,Trưởng nhóm,4 năm,php,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,1 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,2 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,c#,Không yêu cầu,vi,Hồ Chí Minh,2
-9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
+9000000.0,Nhân viên,Không yêu cầu kinh nghiệm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 2000000.0,Thực tập sinh,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 14000000.0,Nhân viên,1 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
 36000000.0,Nhân viên,5 năm,c#,tiếng anh,vi,Hồ Chí Minh,2
@@ -293,15 +293,15 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 15000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 32500000.0,Trưởng/Phó phòng,5 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-3000000.0,Nhân viên,Dưới 1 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 3000000.0,Nhân viên,Dưới 1 năm,javascript,Không yêu cầu,vi,Hồ Chí Minh,2
+3000000.0,Nhân viên,Dưới 1 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 35000000.0,Trưởng nhóm,3 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 10500000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 24150000.0,Nhân viên,2 năm,Khác,tiếng nhật,vi,Hồ Chí Minh,2
-22500000.0,Nhân viên,2 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
-22500000.0,Nhân viên,2 năm,c++,Không yêu cầu,vi,Hồ Chí Minh,2
 22500000.0,Nhân viên,2 năm,c#,Không yêu cầu,vi,Hồ Chí Minh,2
+22500000.0,Nhân viên,2 năm,c++,Không yêu cầu,vi,Hồ Chí Minh,2
+22500000.0,Nhân viên,2 năm,python,Không yêu cầu,vi,Hồ Chí Minh,2
 16500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,1 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 11500000.0,Nhân viên,2 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -360,8 +360,8 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 11500000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,3 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
 16000000.0,Nhân viên,2 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-3000000.0,Thực tập sinh,Không yêu cầu kinh nghiệm,Khác,tiếng nhật,vi,Hồ Chí Minh,2
 3000000.0,Thực tập sinh,Không yêu cầu kinh nghiệm,Khác,tiếng anh,vi,Hồ Chí Minh,2
+3000000.0,Thực tập sinh,Không yêu cầu kinh nghiệm,Khác,tiếng nhật,vi,Hồ Chí Minh,2
 20000000.0,Nhân viên,3 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 15000000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
@@ -398,8 +398,8 @@ Salary,Level,Year of Experience,Programming Language,Language,Lang,Location,Clus
 10500000.0,Nhân viên,Không yêu cầu kinh nghiệm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 8000000.0,Nhân viên,Dưới 1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 10500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
-25000000.0,Nhân viên,2 năm,java,tiếng anh,vi,Hồ Chí Minh,2
 25000000.0,Nhân viên,2 năm,javascript,tiếng anh,vi,Hồ Chí Minh,2
+25000000.0,Nhân viên,2 năm,java,tiếng anh,vi,Hồ Chí Minh,2
 18500000.0,Nhân viên,1 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 30000000.0,Nhân viên,2 năm,Khác,Không yêu cầu,vi,Hồ Chí Minh,2
 12500000.0,Nhân viên,2 năm,Khác,tiếng anh,vi,Hồ Chí Minh,2
