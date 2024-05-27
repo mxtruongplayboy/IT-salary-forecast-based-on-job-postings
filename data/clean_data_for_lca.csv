@@ -1,11 +1,11 @@
-Level,Year of Experience,Programming Language,Language,Lang,Location
+Level,Year of Experience,Programming Language,Requirement Language,Description Language,Location
 1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 3.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,php,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,typescript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
@@ -33,26 +33,26 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
-1.0,2.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,2.0,java,tiếng anh,vi,Hà Nội
 2.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,php,Không yêu cầu,vi,Hà Nội
-1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,0.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
@@ -64,8 +64,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,3.0,python,Không yêu cầu,en,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -75,15 +75,15 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,1.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,2.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
@@ -93,28 +93,28 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,1.0,Khác,tiếng anh,en,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
-1.0,3.0,python,tiếng anh,en,Hà Nội
 1.0,3.0,javascript,tiếng anh,en,Hà Nội
+1.0,3.0,python,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
-1.0,2.0,php,tiếng nhật,vi,Hà Nội
-1.0,2.0,php,tiếng anh,vi,Hà Nội
-1.0,2.0,javascript,tiếng nhật,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
+1.0,2.0,javascript,tiếng nhật,vi,Hà Nội
+1.0,2.0,php,tiếng anh,vi,Hà Nội
+1.0,2.0,php,tiếng nhật,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 3.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hồ Chí Minh
@@ -129,8 +129,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,5.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
@@ -138,24 +138,24 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 2.0,5.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c,Không yêu cầu,vi,Hà Nội
-1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,0.0,java,Không yêu cầu,vi,Hà Nội
+1.0,0.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -178,15 +178,15 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,4.0,c#,Không yêu cầu,vi,Khác
-1.0,4.0,python,Không yêu cầu,vi,Khác
 1.0,4.0,javascript,Không yêu cầu,vi,Khác
+1.0,4.0,python,Không yêu cầu,vi,Khác
+1.0,4.0,c#,Không yêu cầu,vi,Khác
 1.0,1.0,typescript,tiếng anh,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,2.0,java,Không yêu cầu,en,Hà Nội
-1.0,6.0,java,Không yêu cầu,en,Hà Nội
+1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,6.0,javascript,Không yêu cầu,en,Hà Nội
+1.0,6.0,java,Không yêu cầu,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
@@ -208,8 +208,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,vi,Khác
-1.0,1.0,c,Không yêu cầu,vi,Hà Nội
 1.0,1.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,1.0,c,Không yêu cầu,vi,Hà Nội
 1.0,1.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
@@ -224,16 +224,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,6.0,Khác,tiếng anh,en,Hà Nội
 2.0,6.0,Khác,tiếng anh,en,Hà Nội
-1.0,7.0,python,tiếng anh,vi,Hồ Chí Minh
-1.0,7.0,java,tiếng anh,vi,Hồ Chí Minh
 1.0,7.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,7.0,java,tiếng anh,vi,Hồ Chí Minh
+1.0,7.0,python,tiếng anh,vi,Hồ Chí Minh
 1.0,7.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,en,Hà Nội
@@ -243,13 +243,13 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -263,8 +263,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
-2.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 2.0,3.0,Khác,tiếng anh,vi,Hà Nội
+2.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hồ Chí Minh
@@ -286,12 +286,12 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,c++,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,php,tiếng nhật,vi,Hà Nội
 1.0,4.0,php,tiếng anh,vi,Hà Nội
+1.0,4.0,php,tiếng nhật,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -302,18 +302,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,6.0,c#,Không yêu cầu,vi,Hà Nội
-0.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
+0.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,0.0,c#,Không yêu cầu,vi,Hồ Chí Minh
+1.0,5.0,javascript,tiếng anh,vi,Hà Nội
 1.0,5.0,python,tiếng anh,vi,Hà Nội
 1.0,5.0,php,tiếng anh,vi,Hà Nội
-1.0,5.0,javascript,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,en,Hà Nội
-1.0,3.0,python,Không yêu cầu,en,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
+1.0,3.0,python,Không yêu cầu,en,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -325,15 +325,15 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,java,tiếng anh,en,Hà Nội
 1.0,4.0,php,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,4.0,typescript,tiếng anh,en,Hồ Chí Minh
+1.0,4.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,c++,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,en,Hà Nội
@@ -348,13 +348,13 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,6.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -362,11 +362,11 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 3.0,6.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-2.0,7.0,php,tiếng anh,en,Hà Nội
 2.0,7.0,javascript,tiếng anh,en,Hà Nội
+2.0,7.0,php,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,5.0,php,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -377,36 +377,36 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,0.0,java,Không yêu cầu,vi,Hà Nội
+1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,c++,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,php,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,c++,Không yêu cầu,vi,Hồ Chí Minh
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,php,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,en,Hồ Chí Minh
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,dart,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,7.0,python,Không yêu cầu,en,Đà Nẵng
 1.0,7.0,typescript,Không yêu cầu,en,Đà Nẵng
+1.0,7.0,python,Không yêu cầu,en,Đà Nẵng
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
 3.0,4.0,javascript,tiếng anh,vi,Hà Nội
@@ -415,9 +415,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c,tiếng anh,vi,Khác
-1.0,3.0,java,tiếng anh,vi,Khác
 1.0,3.0,c++,tiếng anh,vi,Khác
+1.0,3.0,java,tiếng anh,vi,Khác
+1.0,3.0,c,tiếng anh,vi,Khác
 1.0,5.0,dart,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -431,14 +431,14 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 4.0,2.0,Khác,tiếng anh,en,Khác
 1.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,5.0,php,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Đà Nẵng
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
@@ -446,8 +446,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,0.0,python,Không yêu cầu,en,Hồ Chí Minh
 0.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,tiếng anh,en,Hà Nội
 1.0,3.0,javascript,tiếng anh,en,Hà Nội
+1.0,3.0,python,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
@@ -477,8 +477,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,php,Không yêu cầu,vi,Hà Nội
 1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,1.0,php,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,en,Hồ Chí Minh
@@ -486,14 +486,14 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,0.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,2.0,c++,Không yêu cầu,en,Hà Nội
+1.0,2.0,javascript,Không yêu cầu,en,Hà Nội
 1.0,2.0,c,Không yêu cầu,en,Hà Nội
 1.0,2.0,java,Không yêu cầu,en,Hà Nội
-1.0,2.0,javascript,Không yêu cầu,en,Hà Nội
-1.0,2.0,c++,Không yêu cầu,en,Hà Nội
 1.0,2.0,c#,Không yêu cầu,en,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
@@ -504,22 +504,22 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,typescript,tiếng anh,vi,Hà Nội
-1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,2.0,java,tiếng anh,vi,Hà Nội
-1.0,2.0,php,tiếng anh,vi,Hà Nội
 1.0,2.0,c++,tiếng anh,vi,Hà Nội
 1.0,2.0,python,tiếng anh,vi,Hà Nội
+1.0,2.0,php,tiếng anh,vi,Hà Nội
+1.0,2.0,c,tiếng anh,vi,Hà Nội
+1.0,2.0,java,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,en,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Khác
-1.0,1.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,1.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,1.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
@@ -527,8 +527,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,c,tiếng anh,vi,Khác
 1.0,2.0,c++,tiếng anh,vi,Khác
+1.0,2.0,c,tiếng anh,vi,Khác
 2.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,tiếng anh,vi,Khác
@@ -544,25 +544,25 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
+1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
-1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,1.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
-1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
+1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,tiếng nhật,vi,Hà Nội
 1.0,2.0,php,tiếng anh,vi,Hà Nội
+1.0,2.0,php,tiếng nhật,vi,Hà Nội
 0.0,0.0,Khác,tiếng nhật,en,Hà Nội
 0.0,0.0,Khác,tiếng anh,en,Hà Nội
 3.0,6.0,java,tiếng anh,vi,Hà Nội
@@ -571,14 +571,14 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,4.0,php,Không yêu cầu,vi,Khác
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Khác
+1.0,4.0,php,Không yêu cầu,vi,Khác
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 1.0,3.0,c,tiếng anh,vi,Hà Nội
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
@@ -591,24 +591,24 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Khác
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,php,Không yêu cầu,vi,Khác
 1.0,4.0,javascript,Không yêu cầu,vi,Khác
+1.0,4.0,php,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng nhật,en,Đà Nẵng
-1.0,3.0,php,tiếng anh,en,Hà Nội
 1.0,3.0,javascript,tiếng anh,en,Hà Nội
+1.0,3.0,php,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,5.0,Khác,Không yêu cầu,en,Khác
-1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,kotlin,Không yêu cầu,vi,Hà Nội
-4.0,0.0,python,tiếng anh,en,Hồ Chí Minh
+1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 4.0,0.0,c++,tiếng anh,en,Hồ Chí Minh
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+4.0,0.0,python,tiếng anh,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 3.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -616,16 +616,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,6.0,c,Không yêu cầu,en,Hà Nội
-1.0,6.0,python,Không yêu cầu,en,Hà Nội
 1.0,6.0,c++,Không yêu cầu,en,Hà Nội
+1.0,6.0,python,Không yêu cầu,en,Hà Nội
+1.0,6.0,c,Không yêu cầu,en,Hà Nội
 0.0,0.0,javascript,tiếng anh,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
+1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,7.0,Khác,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -642,24 +642,24 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,4.0,python,tiếng anh,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,tiếng anh,vi,Hà Nội
+1.0,4.0,python,tiếng anh,vi,Hà Nội
 1.0,4.0,c++,tiếng anh,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 2.0,5.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,kotlin,tiếng anh,vi,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
 3.0,4.0,Khác,tiếng nhật,en,Hồ Chí Minh
 2.0,3.0,Khác,Không yêu cầu,vi,Khác
 2.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
@@ -678,9 +678,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,Khác,tiếng nhật,vi,Hồ Chí Minh
 0.0,0.0,Khác,Không yêu cầu,en,Hồ Chí Minh
-1.0,2.0,python,Không yêu cầu,en,Hồ Chí Minh
-1.0,2.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,2.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,2.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,c#,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
@@ -690,9 +690,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,typescript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -701,21 +701,21 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,typescript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,en,Hà Nội
-1.0,3.0,c,Không yêu cầu,en,Hà Nội
 1.0,3.0,c++,Không yêu cầu,en,Hà Nội
+1.0,3.0,c,Không yêu cầu,en,Hà Nội
 5.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -730,9 +730,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,python,tiếng anh,vi,Hà Nội
 2.0,2.0,Khác,tiếng anh,en,Hà Nội
-1.0,2.0,c#,tiếng anh,vi,Hà Nội
-1.0,2.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
+1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,c#,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 3.0,3.0,Khác,tiếng anh,vi,Hà Nội
@@ -742,8 +742,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 3.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,c,tiếng anh,vi,Hà Nội
 1.0,0.0,c,tiếng anh,vi,Hà Nội
@@ -759,14 +759,14 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c,tiếng anh,vi,Hà Nội
@@ -787,27 +787,27 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 2.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
-2.0,7.0,php,Không yêu cầu,vi,Hồ Chí Minh
+1.0,1.0,python,Không yêu cầu,vi,Hồ Chí Minh
 2.0,7.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+2.0,7.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,6.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,1.0,javascript,Không yêu cầu,en,Hà Nội
 1.0,2.0,c,Không yêu cầu,vi,Khác
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
@@ -820,33 +820,33 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Khác
-1.0,2.0,typescript,Không yêu cầu,vi,Khác
-1.0,2.0,c++,Không yêu cầu,vi,Khác
 1.0,2.0,c,Không yêu cầu,vi,Khác
+1.0,2.0,c++,Không yêu cầu,vi,Khác
+1.0,2.0,typescript,Không yêu cầu,vi,Khác
+1.0,2.0,c#,Không yêu cầu,vi,Khác
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Khác
-1.0,2.0,typescript,Không yêu cầu,vi,Khác
-1.0,2.0,c++,Không yêu cầu,vi,Khác
 1.0,2.0,c,Không yêu cầu,vi,Khác
+1.0,2.0,c++,Không yêu cầu,vi,Khác
+1.0,2.0,typescript,Không yêu cầu,vi,Khác
+1.0,2.0,c#,Không yêu cầu,vi,Khác
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,tiếng nhật,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,java,tiếng nhật,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -856,8 +856,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -876,20 +876,20 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,0.0,c++,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c,Không yêu cầu,vi,Hà Nội
+1.0,0.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c,Không yêu cầu,en,Hà Nội
@@ -906,21 +906,20 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
-1.0,3.0,c#,Không yêu cầu,vi,Khác
 1.0,3.0,javascript,Không yêu cầu,vi,Khác
+1.0,3.0,c#,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
@@ -930,9 +929,10 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -941,30 +941,30 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,1.0,typescript,tiếng anh,vi,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,java,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
-1.0,4.0,python,Không yêu cầu,en,Hà Nội
 1.0,4.0,java,Không yêu cầu,en,Hà Nội
+1.0,4.0,python,Không yêu cầu,en,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,vi,Khác
-0.0,0.0,c,tiếng anh,en,Khác
-0.0,0.0,java,tiếng anh,en,Khác
+0.0,0.0,python,tiếng anh,en,Khác
 0.0,0.0,php,tiếng anh,en,Khác
 0.0,0.0,javascript,tiếng anh,en,Khác
-0.0,0.0,python,tiếng anh,en,Khác
+0.0,0.0,c,tiếng anh,en,Khác
+0.0,0.0,java,tiếng anh,en,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,2.0,c,Không yêu cầu,vi,Khác
-1.0,2.0,java,Không yêu cầu,vi,Khác
 1.0,2.0,kotlin,Không yêu cầu,vi,Khác
+1.0,2.0,java,Không yêu cầu,vi,Khác
+1.0,2.0,c,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,tiếng anh,en,Khác
 1.0,4.0,c++,tiếng anh,en,Khác
-1.0,4.0,python,Không yêu cầu,en,Hà Nội
+1.0,4.0,c,tiếng anh,en,Khác
 1.0,4.0,java,Không yêu cầu,en,Hà Nội
+1.0,4.0,python,Không yêu cầu,en,Hà Nội
 1.0,4.0,c++,Không yêu cầu,en,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
@@ -984,8 +984,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,java,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -995,17 +995,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,javascript,tiếng anh,vi,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,en,Hà Nội
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hồ Chí Minh
 0.0,0.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,java,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
@@ -1013,15 +1012,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 3.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1039,8 +1039,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,tiếng anh,vi,Khác
 1.0,2.0,java,tiếng anh,vi,Khác
+1.0,2.0,python,tiếng anh,vi,Khác
 1.0,2.0,php,tiếng anh,vi,Khác
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,kotlin,Không yêu cầu,vi,Hà Nội
@@ -1054,14 +1054,14 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,typescript,tiếng anh,vi,Hà Nội
 1.0,1.0,javascript,tiếng anh,vi,Hà Nội
 1.0,1.0,typescript,tiếng anh,vi,Hà Nội
-1.0,1.0,python,tiếng anh,vi,Hà Nội
-1.0,1.0,java,tiếng anh,vi,Hà Nội
 1.0,1.0,javascript,tiếng anh,vi,Hà Nội
 1.0,1.0,typescript,tiếng anh,vi,Hà Nội
+1.0,1.0,java,tiếng anh,vi,Hà Nội
+1.0,1.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1072,8 +1072,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 3.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,php,tiếng anh,en,Hà Nội
-1.0,1.0,php,tiếng anh,en,Hà Nội
 1.0,1.0,javascript,tiếng anh,en,Hà Nội
+1.0,1.0,php,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1095,8 +1095,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,0.0,php,Không yêu cầu,vi,Hà Nội
 1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,0.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1105,15 +1105,15 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c++,tiếng anh,vi,Hà Nội
 1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,c,tiếng anh,vi,Hà Nội
-1.0,3.0,c++,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,0.0,Khác,tiếng anh,vi,Khác
 1.0,4.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,php,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
@@ -1141,13 +1141,13 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,typescript,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 2.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,4.0,javascript,tiếng anh,en,Hồ Chí Minh
+1.0,4.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,c#,tiếng anh,vi,Hồ Chí Minh
-1.0,4.0,c,tiếng anh,vi,Hồ Chí Minh
 1.0,4.0,c++,tiếng anh,vi,Hồ Chí Minh
+1.0,4.0,c,tiếng anh,vi,Hồ Chí Minh
+1.0,4.0,c#,tiếng anh,vi,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,vi,Khác
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,typescript,tiếng anh,en,Hà Nội
@@ -1163,22 +1163,22 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,typescript,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,java,tiếng anh,vi,Đà Nẵng
-1.0,0.0,Khác,tiếng nhật,vi,Khác
 1.0,0.0,Khác,tiếng anh,vi,Khác
+1.0,0.0,Khác,tiếng nhật,vi,Khác
 1.0,0.0,Khác,Không yêu cầu,vi,Đà Nẵng
-1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,2.0,c++,Không yêu cầu,en,Hà Nội
+1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 3.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
@@ -1187,16 +1187,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,en,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,php,Không yêu cầu,vi,Khác
 1.0,4.0,javascript,Không yêu cầu,vi,Khác
+1.0,4.0,php,Không yêu cầu,vi,Khác
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,typescript,tiếng anh,vi,Hà Nội
-1.0,4.0,python,tiếng anh,vi,Hà Nội
 1.0,4.0,java,tiếng anh,vi,Hà Nội
+1.0,4.0,python,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,typescript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
@@ -1222,90 +1222,90 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,c++,Không yêu cầu,vi,Hồ Chí Minh
+1.0,2.0,c,Không yêu cầu,vi,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Hồ Chí Minh
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,en,Hà Nội
 4.0,4.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,typescript,Không yêu cầu,vi,Hà Nội
 2.0,3.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
-1.0,3.0,c,tiếng anh,en,Hà Nội
-1.0,3.0,python,tiếng anh,en,Hà Nội
 1.0,3.0,c++,tiếng anh,en,Hà Nội
-1.0,0.0,php,tiếng anh,vi,Hồ Chí Minh
+1.0,3.0,python,tiếng anh,en,Hà Nội
+1.0,3.0,c,tiếng anh,en,Hà Nội
 1.0,0.0,javascript,tiếng anh,vi,Hồ Chí Minh
-1.0,1.0,java,tiếng nhật,vi,Hà Nội
+1.0,0.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,1.0,javascript,tiếng nhật,vi,Hà Nội
+1.0,1.0,java,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Khác
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
-1.0,5.0,java,tiếng anh,en,Hồ Chí Minh
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,5.0,kotlin,tiếng anh,en,Hồ Chí Minh
+1.0,5.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,1.0,c++,tiếng nhật,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,c++,Không yêu cầu,vi,Hồ Chí Minh
+1.0,2.0,c,Không yêu cầu,vi,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Hồ Chí Minh
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,en,Hà Nội
 4.0,4.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,typescript,Không yêu cầu,vi,Hà Nội
 2.0,3.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
-1.0,3.0,c,tiếng anh,en,Hà Nội
-1.0,3.0,python,tiếng anh,en,Hà Nội
 1.0,3.0,c++,tiếng anh,en,Hà Nội
-1.0,0.0,php,tiếng anh,vi,Hồ Chí Minh
+1.0,3.0,python,tiếng anh,en,Hà Nội
+1.0,3.0,c,tiếng anh,en,Hà Nội
 1.0,0.0,javascript,tiếng anh,vi,Hồ Chí Minh
-1.0,1.0,java,tiếng nhật,vi,Hà Nội
+1.0,0.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,1.0,javascript,tiếng nhật,vi,Hà Nội
+1.0,1.0,java,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Khác
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
-1.0,5.0,java,tiếng anh,en,Hồ Chí Minh
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,5.0,kotlin,tiếng anh,en,Hồ Chí Minh
+1.0,5.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,1.0,c++,tiếng nhật,vi,Hà Nội
-1.0,3.0,c,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
-0.0,0.0,php,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 0.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hà Nội
+0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,typescript,Không yêu cầu,vi,Hà Nội
@@ -1313,20 +1313,20 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,6.0,java,tiếng nhật,en,Hà Nội
-2.0,7.0,java,tiếng nhật,vi,Hà Nội
-2.0,7.0,java,tiếng anh,vi,Hà Nội
-2.0,7.0,php,tiếng nhật,vi,Hà Nội
-2.0,7.0,php,tiếng anh,vi,Hà Nội
-2.0,7.0,javascript,tiếng nhật,vi,Hà Nội
-2.0,7.0,javascript,tiếng anh,vi,Hà Nội
-2.0,7.0,python,tiếng nhật,vi,Hà Nội
 2.0,7.0,python,tiếng anh,vi,Hà Nội
-2.0,7.0,typescript,tiếng nhật,vi,Hà Nội
+2.0,7.0,python,tiếng nhật,vi,Hà Nội
+2.0,7.0,php,tiếng anh,vi,Hà Nội
+2.0,7.0,php,tiếng nhật,vi,Hà Nội
+2.0,7.0,javascript,tiếng anh,vi,Hà Nội
+2.0,7.0,javascript,tiếng nhật,vi,Hà Nội
 2.0,7.0,typescript,tiếng anh,vi,Hà Nội
+2.0,7.0,typescript,tiếng nhật,vi,Hà Nội
+2.0,7.0,java,tiếng anh,vi,Hà Nội
+2.0,7.0,java,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,php,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,php,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,6.0,javascript,Không yêu cầu,en,Hà Nội
@@ -1339,53 +1339,53 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-0.0,0.0,java,tiếng anh,en,Hà Nội
 0.0,0.0,javascript,tiếng anh,en,Hà Nội
+0.0,0.0,java,tiếng anh,en,Hà Nội
 0.0,0.0,javascript,Không yêu cầu,en,Hà Nội
 0.0,0.0,Khác,tiếng anh,en,Hà Nội
 0.0,0.0,Khác,tiếng anh,en,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hồ Chí Minh
+1.0,4.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,tiếng anh,vi,Hà Nội
 1.0,5.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,5.0,typescript,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-2.0,3.0,php,Không yêu cầu,vi,Hà Nội
 2.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+2.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 3.0,4.0,Khác,tiếng anh,vi,Hà Nội
-1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,6.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,6.0,Khác,tiếng anh,vi,Hà Nội
+1.0,6.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
 2.0,3.0,java,tiếng nhật,vi,Hồ Chí Minh
 2.0,3.0,php,tiếng nhật,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 2.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
-1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 2.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
@@ -1416,24 +1416,24 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
-1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,3.0,kotlin,Không yêu cầu,en,Hà Nội
+1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,tiếng anh,vi,Hà Nội
 3.0,6.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
@@ -1455,8 +1455,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1464,16 +1464,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1489,8 +1489,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1498,16 +1498,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1523,8 +1523,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1532,16 +1532,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1557,8 +1557,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1566,16 +1566,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1591,8 +1591,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1600,16 +1600,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1625,8 +1625,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1634,16 +1634,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1659,8 +1659,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1668,16 +1668,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1693,8 +1693,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1702,16 +1702,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1727,8 +1727,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1736,16 +1736,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1761,8 +1761,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1770,16 +1770,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1795,8 +1795,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1804,16 +1804,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1829,8 +1829,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1838,16 +1838,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1863,8 +1863,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1872,16 +1872,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1897,8 +1897,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1906,16 +1906,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1931,8 +1931,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1940,16 +1940,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1965,8 +1965,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -1974,16 +1974,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -1999,8 +1999,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2008,16 +2008,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -2033,8 +2033,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2042,16 +2042,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -2067,8 +2067,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2076,16 +2076,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -2101,8 +2101,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2110,16 +2110,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -2135,8 +2135,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2144,16 +2144,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -2169,8 +2169,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2178,16 +2178,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -2203,8 +2203,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2212,16 +2212,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -2237,8 +2237,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2246,18 +2246,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hồ Chí Minh
 4.0,4.0,Khác,tiếng anh,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,0.0,python,Không yêu cầu,vi,Hà Nội
 1.0,0.0,php,Không yêu cầu,vi,Hà Nội
-1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
 4.0,2.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2271,8 +2271,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 3.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2280,11 +2280,11 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,php,tiếng anh,en,Hà Nội
 1.0,1.0,javascript,tiếng anh,en,Hà Nội
+1.0,1.0,php,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2311,8 +2311,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
 3.0,5.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2321,10 +2321,10 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 3.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,0.0,c#,Không yêu cầu,en,Khác
 1.0,0.0,javascript,Không yêu cầu,en,Khác
-1.0,4.0,c,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,c#,Không yêu cầu,en,Khác
 1.0,4.0,java,Không yêu cầu,vi,Hồ Chí Minh
+1.0,4.0,c,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,7.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -2333,8 +2333,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,javascript,tiếng anh,en,Hồ Chí Minh
+1.0,2.0,java,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Khác
@@ -2371,10 +2371,10 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,c,Không yêu cầu,en,Hà Nội
-0.0,0.0,Khác,tiếng nhật,vi,Khác
 0.0,0.0,Khác,tiếng anh,vi,Khác
-0.0,0.0,java,Không yêu cầu,en,Hồ Chí Minh
+0.0,0.0,Khác,tiếng nhật,vi,Khác
 0.0,0.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+0.0,0.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2385,21 +2385,21 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,python,tiếng anh,en,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,5.0,c,Không yêu cầu,en,Hà Nội
 1.0,5.0,java,Không yêu cầu,en,Hà Nội
+1.0,5.0,c,Không yêu cầu,en,Hà Nội
 0.0,1.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,tiếng nhật,vi,Hà Nội
-1.0,3.0,python,tiếng anh,vi,Hà Nội
-1.0,3.0,javascript,tiếng nhật,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
+1.0,3.0,javascript,tiếng nhật,vi,Hà Nội
+1.0,3.0,python,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng nhật,en,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,5.0,c#,tiếng anh,vi,Hà Nội
-1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
@@ -2412,22 +2412,22 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,en,Hà Nội
+1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,python,Không yêu cầu,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
+1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 4.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
@@ -2452,18 +2452,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,0.0,c#,Không yêu cầu,en,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,php,Không yêu cầu,vi,Hà Nội
-1.0,1.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,1.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,1.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
 1.0,4.0,dart,Không yêu cầu,vi,Hà Nội
 1.0,4.0,typescript,Không yêu cầu,vi,Hà Nội
-1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c#,tiếng anh,en,Hồ Chí Minh
 1.0,4.0,javascript,tiếng anh,en,Hồ Chí Minh
+1.0,4.0,c#,tiếng anh,en,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,en,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -2475,8 +2475,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 0.0,1.0,Khác,tiếng anh,en,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2488,10 +2488,10 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c,tiếng nhật,en,Hà Nội
-1.0,3.0,c,tiếng anh,en,Hà Nội
 1.0,3.0,c++,tiếng nhật,en,Hà Nội
 1.0,3.0,c++,tiếng anh,en,Hà Nội
+1.0,3.0,c,tiếng nhật,en,Hà Nội
+1.0,3.0,c,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,tiếng anh,vi,Hồ Chí Minh
@@ -2502,8 +2502,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 3.0,6.0,Khác,Không yêu cầu,vi,Khác
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c#,tiếng anh,vi,Hà Nội
 1.0,4.0,java,tiếng anh,vi,Hà Nội
+1.0,4.0,c#,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2516,16 +2516,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
+0.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2536,26 +2536,26 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,c#,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,4.0,c#,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,java,tiếng nhật,vi,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
-1.0,3.0,c#,tiếng nhật,vi,Hà Nội
-1.0,3.0,c#,tiếng anh,vi,Hà Nội
-1.0,3.0,c++,tiếng nhật,vi,Hà Nội
 1.0,3.0,c++,tiếng anh,vi,Hà Nội
-1.0,3.0,kotlin,tiếng nhật,vi,Hà Nội
-1.0,3.0,kotlin,tiếng anh,vi,Hà Nội
-1.0,3.0,python,tiếng nhật,vi,Hà Nội
+1.0,3.0,c++,tiếng nhật,vi,Hà Nội
 1.0,3.0,python,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng nhật,vi,Hà Nội
+1.0,3.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,3.0,kotlin,tiếng nhật,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng nhật,vi,Hà Nội
+1.0,3.0,c#,tiếng anh,vi,Hà Nội
+1.0,3.0,c#,tiếng nhật,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 5.0,3.0,Khác,tiếng anh,vi,Khác
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
@@ -2567,8 +2567,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,6.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,5.0,Khác,tiếng anh,en,Hà Nội
 0.0,0.0,javascript,tiếng anh,en,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2594,21 +2594,21 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-0.0,0.0,c,Không yêu cầu,vi,Hà Nội
-0.0,0.0,java,Không yêu cầu,vi,Hà Nội
 0.0,0.0,c++,Không yêu cầu,vi,Hà Nội
-0.0,0.0,kotlin,Không yêu cầu,vi,Hà Nội
 0.0,0.0,python,Không yêu cầu,vi,Hà Nội
+0.0,0.0,c,Không yêu cầu,vi,Hà Nội
+0.0,0.0,kotlin,Không yêu cầu,vi,Hà Nội
+0.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,php,tiếng anh,en,Hồ Chí Minh
 1.0,4.0,javascript,tiếng anh,en,Hồ Chí Minh
+1.0,4.0,php,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 0.0,1.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
@@ -2647,12 +2647,12 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,0.0,java,tiếng anh,en,Hà Nội
 4.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,python,tiếng anh,en,Hà Nội
 1.0,4.0,c++,tiếng anh,en,Hà Nội
+1.0,4.0,python,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,Khác,tiếng nhật,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
@@ -2661,28 +2661,28 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
-1.0,4.0,java,tiếng anh,en,Hà Nội
+1.0,3.0,php,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,en,Hà Nội
+1.0,4.0,java,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,typescript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,java,tiếng anh,vi,Đà Nẵng
 1.0,0.0,Khác,Không yêu cầu,vi,Đà Nẵng
 2.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2691,9 +2691,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 2.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2727,16 +2727,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 4.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-0.0,0.0,python,Không yêu cầu,en,Hà Nội
 0.0,0.0,java,Không yêu cầu,en,Hà Nội
+0.0,0.0,python,Không yêu cầu,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,python,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng nhật,en,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
+0.0,0.0,javascript,tiếng anh,vi,Hà Nội
 0.0,0.0,java,tiếng anh,vi,Hà Nội
 0.0,0.0,php,tiếng anh,vi,Hà Nội
-0.0,0.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -2748,9 +2748,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,en,Khác
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,0.0,c,tiếng anh,vi,Hà Nội
-1.0,0.0,java,tiếng anh,vi,Hà Nội
 1.0,0.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,0.0,java,tiếng anh,vi,Hà Nội
+1.0,0.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
@@ -2765,8 +2765,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,c++,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,c#,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
@@ -2774,23 +2774,23 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 0.0,0.0,c,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,php,Không yêu cầu,vi,Hà Nội
 1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,1.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,2.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,tiếng anh,en,Hà Nội
@@ -2805,30 +2805,30 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng nhật,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,tiếng nhật,vi,Hà Nội
 1.0,3.0,php,tiếng anh,vi,Hà Nội
+1.0,3.0,php,tiếng nhật,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,1.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,1.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,1.0,php,tiếng anh,vi,Hồ Chí Minh
 3.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
-1.0,2.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,2.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,0.0,python,tiếng anh,vi,Hồ Chí Minh
 1.0,0.0,php,tiếng anh,vi,Hồ Chí Minh
 0.0,1.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,php,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,javascript,tiếng anh,en,Hồ Chí Minh
+1.0,3.0,php,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,php,Không yêu cầu,vi,Hồ Chí Minh
 2.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,vi,Khác
@@ -2838,16 +2838,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 2.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
+1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,0.0,c#,tiếng anh,en,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
-1.0,2.0,javascript,tiếng nhật,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
-1.0,2.0,typescript,tiếng nhật,vi,Hà Nội
+1.0,2.0,javascript,tiếng nhật,vi,Hà Nội
 1.0,2.0,typescript,tiếng anh,vi,Hà Nội
+1.0,2.0,typescript,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
@@ -2872,20 +2872,20 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 2.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
-1.0,0.0,python,tiếng nhật,vi,Hà Nội
-1.0,0.0,python,tiếng anh,vi,Hà Nội
-1.0,0.0,java,tiếng nhật,vi,Hà Nội
-1.0,0.0,java,tiếng anh,vi,Hà Nội
-1.0,0.0,c++,tiếng nhật,vi,Hà Nội
 1.0,0.0,c++,tiếng anh,vi,Hà Nội
+1.0,0.0,c++,tiếng nhật,vi,Hà Nội
+1.0,0.0,python,tiếng anh,vi,Hà Nội
+1.0,0.0,python,tiếng nhật,vi,Hà Nội
+1.0,0.0,java,tiếng anh,vi,Hà Nội
+1.0,0.0,java,tiếng nhật,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
-0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 0.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng nhật,en,Hà Nội
 1.0,4.0,Khác,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -2898,15 +2898,15 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,kotlin,Không yêu cầu,vi,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 2.0,2.0,Khác,Không yêu cầu,vi,Khác
@@ -2936,49 +2936,49 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 4.0,4.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,java,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,c,Không yêu cầu,en,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,dart,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,tiếng anh,vi,Hà Nội
 4.0,2.0,Khác,tiếng anh,vi,Khác
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 0.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,en,Hồ Chí Minh
-0.0,0.0,c,Không yêu cầu,vi,Hà Nội
 0.0,0.0,c++,Không yêu cầu,vi,Hà Nội
+0.0,0.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,typescript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,7.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,7.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,7.0,php,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -2995,20 +2995,20 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Khác
 1.0,2.0,java,Không yêu cầu,vi,Khác
+1.0,2.0,python,Không yêu cầu,vi,Khác
 1.0,2.0,php,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,python,Không yêu cầu,en,Hồ Chí Minh
 0.0,0.0,java,Không yêu cầu,en,Hồ Chí Minh
+0.0,0.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,1.0,java,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,1.0,java,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
+1.0,2.0,c#,tiếng anh,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 2.0,5.0,php,Không yêu cầu,vi,Hồ Chí Minh
@@ -3016,8 +3016,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,typescript,Không yêu cầu,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -3026,20 +3026,20 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,php,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,typescript,tiếng anh,vi,Hà Nội
+1.0,2.0,php,tiếng anh,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c#,Không yêu cầu,vi,Hồ Chí Minh
-1.0,0.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,python,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,c#,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,javascript,tiếng anh,en,Hà Nội
 3.0,3.0,Khác,Không yêu cầu,en,Đà Nẵng
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,c++,tiếng anh,vi,Hà Nội
+1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3058,12 +3058,12 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,c#,tiếng nhật,en,Hà Nội
-1.0,4.0,c#,tiếng anh,en,Hà Nội
-1.0,4.0,java,tiếng nhật,en,Hà Nội
-1.0,4.0,java,tiếng anh,en,Hà Nội
 1.0,4.0,c++,tiếng nhật,en,Hà Nội
 1.0,4.0,c++,tiếng anh,en,Hà Nội
+1.0,4.0,java,tiếng nhật,en,Hà Nội
+1.0,4.0,java,tiếng anh,en,Hà Nội
+1.0,4.0,c#,tiếng nhật,en,Hà Nội
+1.0,4.0,c#,tiếng anh,en,Hà Nội
 0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
@@ -3072,28 +3072,28 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,java,tiếng anh,vi,Hà Nội
 1.0,4.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,4.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,en,Khác
-1.0,0.0,python,tiếng anh,en,Khác
-1.0,0.0,java,tiếng anh,en,Khác
-1.0,0.0,php,tiếng anh,en,Khác
 1.0,0.0,javascript,tiếng anh,en,Khác
+1.0,0.0,java,tiếng anh,en,Khác
+1.0,0.0,python,tiếng anh,en,Khác
+1.0,0.0,php,tiếng anh,en,Khác
 1.0,4.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,6.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,6.0,python,tiếng anh,vi,Hồ Chí Minh
-1.0,4.0,c#,Không yêu cầu,vi,Hồ Chí Minh
+1.0,6.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,Khác,tiếng nhật,vi,Đà Nẵng
+1.0,4.0,c#,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,tiếng anh,vi,Đà Nẵng
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,Khác,tiếng nhật,vi,Đà Nẵng
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
@@ -3111,9 +3111,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
-1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 2.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3123,18 +3123,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,typescript,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Hồ Chí Minh
-1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,2.0,java,Không yêu cầu,en,Hà Nội
+1.0,2.0,python,Không yêu cầu,en,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-5.0,6.0,Khác,tiếng nhật,vi,Hà Nội
 5.0,6.0,Khác,tiếng anh,vi,Hà Nội
+5.0,6.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,0.0,Khác,tiếng anh,vi,Khác
 2.0,5.0,Khác,tiếng anh,en,Hà Nội
-1.0,2.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,kotlin,tiếng anh,en,Hồ Chí Minh
+1.0,2.0,java,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -3147,26 +3147,26 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,tiếng anh,en,Hà Nội
 1.0,2.0,kotlin,tiếng anh,en,Hà Nội
+1.0,2.0,java,tiếng anh,en,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
+0.0,0.0,javascript,tiếng anh,vi,Hà Nội
 0.0,0.0,java,tiếng anh,vi,Hà Nội
 0.0,0.0,php,tiếng anh,vi,Hà Nội
-0.0,0.0,javascript,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,1.0,Khác,Không yêu cầu,vi,Khác
 1.0,1.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng anh,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 2.0,4.0,java,Không yêu cầu,vi,Hà Nội
 2.0,6.0,Khác,tiếng anh,en,Hà Nội
@@ -3203,8 +3203,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Khác
 1.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
+1.0,2.0,php,tiếng anh,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3237,53 +3237,53 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
 3.0,6.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,1.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c#,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,1.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c#,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 2.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,c++,tiếng anh,en,Hồ Chí Minh
+1.0,2.0,c,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Khác
 1.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng nhật,vi,Hồ Chí Minh
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,c++,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,python,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,c#,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,python,Không yêu cầu,vi,Hà Nội
 0.0,0.0,java,Không yêu cầu,vi,Hà Nội
+0.0,0.0,python,Không yêu cầu,vi,Hà Nội
 1.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,4.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,php,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
 1.0,2.0,typescript,tiếng anh,vi,Hà Nội
+1.0,2.0,php,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,c++,tiếng anh,vi,Hà Nội
+1.0,2.0,c++,tiếng anh,vi,Hà Nội
 1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,c,tiếng anh,vi,Hà Nội
-1.0,2.0,c++,tiếng anh,vi,Hà Nội
-1.0,2.0,c++,tiếng anh,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,en,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,en,Hà Nội
+1.0,3.0,php,Không yêu cầu,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3297,8 +3297,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -3311,8 +3311,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,typescript,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,4.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,4.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,en,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,en,Hà Nội
@@ -3330,8 +3330,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,python,Không yêu cầu,en,Hồ Chí Minh
 0.0,0.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+0.0,0.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,typescript,Không yêu cầu,vi,Hà Nội
@@ -3343,21 +3343,21 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
 2.0,2.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,0.0,java,Không yêu cầu,vi,Hà Nội
+1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c++,Không yêu cầu,vi,Khác
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
@@ -3375,13 +3375,13 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,javascript,Không yêu cầu,en,Hà Nội
-1.0,2.0,c,tiếng nhật,vi,Hà Nội
-1.0,2.0,python,tiếng nhật,vi,Hà Nội
 1.0,2.0,c++,tiếng nhật,vi,Hà Nội
+1.0,2.0,python,tiếng nhật,vi,Hà Nội
+1.0,2.0,c,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
@@ -3421,8 +3421,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 2.0,4.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,typescript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Đà Nẵng
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3434,15 +3434,15 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,php,tiếng anh,vi,Khác
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,vi,Khác
-1.0,3.0,java,Không yêu cầu,vi,Khác
 1.0,3.0,kotlin,Không yêu cầu,vi,Khác
+1.0,3.0,java,Không yêu cầu,vi,Khác
+1.0,3.0,c,Không yêu cầu,vi,Khác
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
@@ -3451,12 +3451,12 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,0.0,Khác,tiếng nhật,vi,Khác
 1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,en,Hồ Chí Minh
-1.0,0.0,c#,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,java,tiếng anh,en,Hồ Chí Minh
-1.0,0.0,php,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,python,tiếng anh,en,Hồ Chí Minh
-1.0,0.0,java,tiếng anh,en,Hà Nội
+1.0,0.0,php,tiếng anh,en,Hồ Chí Minh
+1.0,0.0,c#,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,javascript,tiếng anh,en,Hà Nội
+1.0,0.0,java,tiếng anh,en,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3479,23 +3479,23 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,tiếng nhật,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,en,Hà Nội
-1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
+1.0,0.0,c++,Không yêu cầu,vi,Khác
+1.0,0.0,php,Không yêu cầu,vi,Khác
 1.0,0.0,c,Không yêu cầu,vi,Khác
 1.0,0.0,java,Không yêu cầu,vi,Khác
-1.0,0.0,php,Không yêu cầu,vi,Khác
-1.0,0.0,c++,Không yêu cầu,vi,Khác
 1.0,0.0,c#,Không yêu cầu,vi,Khác
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,tiếng anh,vi,Hà Nội
 1.0,2.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,2.0,java,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3508,20 +3508,20 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,tiếng anh,vi,Khác
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,java,tiếng anh,en,Hà Nội
 1.0,3.0,javascript,tiếng anh,en,Hà Nội
+1.0,3.0,java,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,python,tiếng anh,vi,Hà Nội
-1.0,1.0,java,tiếng anh,vi,Hà Nội
 1.0,1.0,javascript,tiếng anh,vi,Hà Nội
 1.0,1.0,typescript,tiếng anh,vi,Hà Nội
+1.0,1.0,java,tiếng anh,vi,Hà Nội
+1.0,1.0,python,tiếng anh,vi,Hà Nội
 1.0,1.0,javascript,tiếng anh,vi,Hà Nội
 1.0,1.0,typescript,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -3531,21 +3531,21 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,javascript,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,0.0,c,tiếng anh,vi,Hà Nội
 1.0,0.0,c++,tiếng anh,vi,Hà Nội
-1.0,0.0,java,tiếng anh,vi,Hà Nội
+1.0,0.0,c,tiếng anh,vi,Hà Nội
 1.0,0.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,0.0,java,tiếng anh,vi,Hà Nội
 1.0,0.0,java,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
 1.0,0.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c#,tiếng anh,en,Hà Nội
 1.0,0.0,java,tiếng anh,en,Hà Nội
+1.0,0.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 2.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3562,21 +3562,21 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,python,tiếng anh,en,Hồ Chí Minh
-0.0,0.0,java,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,javascript,tiếng anh,en,Hồ Chí Minh
+0.0,0.0,java,tiếng anh,en,Hồ Chí Minh
+0.0,0.0,python,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,c#,tiếng anh,en,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,5.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3602,41 +3602,41 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,php,tiếng anh,en,Hà Nội
-1.0,3.0,c,Không yêu cầu,en,Hà Nội
 1.0,3.0,c++,Không yêu cầu,en,Hà Nội
-1.0,3.0,php,tiếng anh,vi,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hồ Chí Minh
-1.0,2.0,c,Không yêu cầu,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,php,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,php,tiếng anh,en,Hà Nội
 1.0,1.0,javascript,tiếng anh,en,Hà Nội
+1.0,1.0,php,tiếng anh,en,Hà Nội
 1.0,4.0,typescript,Không yêu cầu,en,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c,tiếng anh,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
+1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,python,Không yêu cầu,vi,Hà Nội
-1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,6.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,6.0,python,Không yêu cầu,vi,Hà Nội
 1.0,6.0,php,Không yêu cầu,vi,Hà Nội
-1.0,6.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
-1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,1.0,python,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,php,Không yêu cầu,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,en,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
@@ -3646,14 +3646,14 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
-0.0,0.0,python,Không yêu cầu,vi,Hà Nội
 0.0,0.0,java,Không yêu cầu,vi,Hà Nội
+0.0,0.0,python,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
 0.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -3676,16 +3676,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,6.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,0.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,1.0,php,tiếng anh,en,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,1.0,javascript,tiếng anh,en,Hà Nội
+1.0,1.0,php,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3697,8 +3697,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,2.0,php,Không yêu cầu,vi,Hồ Chí Minh
-1.0,1.0,c,tiếng anh,vi,Hà Nội
 1.0,1.0,c++,tiếng anh,vi,Hà Nội
+1.0,1.0,c,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,vi,Hà Nội
@@ -3716,15 +3716,15 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 0.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 1.0,6.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,python,tiếng anh,en,Hà Nội
 1.0,0.0,java,tiếng anh,en,Hà Nội
+1.0,0.0,python,tiếng anh,en,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Khác
 0.0,0.0,Khác,tiếng nhật,vi,Hà Nội
@@ -3745,19 +3745,19 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-0.0,0.0,javascript,tiếng nhật,vi,Hà Nội
 0.0,0.0,javascript,tiếng anh,vi,Hà Nội
+0.0,0.0,javascript,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,en,Khác
+1.0,2.0,javascript,tiếng anh,vi,Đà Nẵng
 1.0,2.0,python,tiếng anh,vi,Đà Nẵng
 1.0,2.0,php,tiếng anh,vi,Đà Nẵng
-1.0,2.0,javascript,tiếng anh,vi,Đà Nẵng
-1.0,6.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,6.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,1.0,java,Không yêu cầu,vi,Hà Nội
+1.0,6.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,1.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,1.0,java,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,typescript,Không yêu cầu,vi,Hà Nội
@@ -3765,9 +3765,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 0.0,0.0,java,tiếng anh,vi,Đà Nẵng
-1.0,3.0,c#,tiếng anh,vi,Hà Nội
-1.0,3.0,php,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
+1.0,3.0,php,tiếng anh,vi,Hà Nội
+1.0,3.0,c#,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,en,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
@@ -3781,11 +3781,11 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,javascript,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,c,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
-1.0,4.0,c#,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,typescript,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
@@ -3799,25 +3799,25 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 0.0,1.0,Khác,tiếng anh,vi,Hà Nội
-0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 0.0,0.0,javascript,Không yêu cầu,vi,Hà Nội
+0.0,0.0,php,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,python,tiếng nhật,vi,Hà Nội
-1.0,3.0,python,tiếng anh,vi,Hà Nội
-1.0,3.0,php,tiếng nhật,vi,Hà Nội
-1.0,3.0,php,tiếng anh,vi,Hà Nội
-1.0,3.0,javascript,tiếng nhật,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
+1.0,3.0,javascript,tiếng nhật,vi,Hà Nội
+1.0,3.0,python,tiếng anh,vi,Hà Nội
+1.0,3.0,python,tiếng nhật,vi,Hà Nội
+1.0,3.0,php,tiếng anh,vi,Hà Nội
+1.0,3.0,php,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,4.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,c,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
@@ -3833,8 +3833,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
-0.0,0.0,Khác,tiếng nhật,vi,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,vi,Hồ Chí Minh
+0.0,0.0,Khác,tiếng nhật,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
@@ -3872,8 +3872,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,php,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,php,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,php,Không yêu cầu,en,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,4.0,java,tiếng anh,vi,Hà Nội
@@ -3895,8 +3895,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,typescript,tiếng anh,en,Hồ Chí Minh
 1.0,0.0,kotlin,Không yêu cầu,vi,Hà Nội
 1.0,0.0,kotlin,Không yêu cầu,vi,Hà Nội
-0.0,1.0,c,Không yêu cầu,vi,Hà Nội
 0.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
+0.0,1.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
@@ -3909,8 +3909,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,kotlin,Không yêu cầu,vi,Hà Nội
+1.0,2.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,5.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,tiếng anh,vi,Hà Nội
@@ -3922,8 +3922,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,javascript,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 2.0,4.0,c,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -3946,13 +3946,13 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,en,Khác
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 4.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,c++,tiếng anh,en,Hà Nội
 1.0,0.0,kotlin,tiếng anh,en,Hà Nội
+1.0,0.0,c++,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hà Nội
@@ -3991,8 +3991,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,5.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,python,Không yêu cầu,vi,Khác
-1.0,4.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,typescript,Không yêu cầu,en,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c#,Không yêu cầu,en,Khác
@@ -4005,10 +4005,10 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,Không yêu cầu,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,2.0,c,Không yêu cầu,vi,Hà Nội
+1.0,2.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hà Nội
 0.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng nhật,en,Hà Nội
 1.0,2.0,Khác,tiếng anh,en,Hà Nội
@@ -4027,31 +4027,31 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,3.0,php,tiếng nhật,vi,Hồ Chí Minh
 1.0,3.0,php,tiếng anh,vi,Hồ Chí Minh
+1.0,3.0,php,tiếng nhật,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,Khác,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,python,Không yêu cầu,en,Hồ Chí Minh
-1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,python,Không yêu cầu,en,Hồ Chí Minh
 1.0,5.0,javascript,tiếng anh,vi,Hà Nội
 1.0,0.0,php,Không yêu cầu,vi,Hồ Chí Minh
 0.0,0.0,java,Không yêu cầu,vi,Khác
-0.0,0.0,php,tiếng anh,vi,Đà Nẵng
 0.0,0.0,javascript,tiếng anh,vi,Đà Nẵng
+0.0,0.0,php,tiếng anh,vi,Đà Nẵng
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,python,Không yêu cầu,vi,Khác
 1.0,4.0,php,Không yêu cầu,vi,Khác
 1.0,4.0,php,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,tiếng anh,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,2.0,c#,tiếng anh,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,en,Hà Nội
 1.0,3.0,c,Không yêu cầu,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Khác
@@ -4062,9 +4062,9 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 4.0,3.0,Khác,Không yêu cầu,vi,Khác
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,en,Đà Nẵng
-1.0,3.0,c,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c++,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c,Không yêu cầu,vi,Hà Nội
 1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
@@ -4080,52 +4080,52 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,2.0,java,tiếng anh,vi,Hà Nội
+1.0,2.0,python,tiếng anh,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
-1.0,0.0,python,Không yêu cầu,vi,Hà Nội
 1.0,0.0,java,Không yêu cầu,vi,Hà Nội
+1.0,0.0,python,Không yêu cầu,vi,Hà Nội
 1.0,0.0,c++,Không yêu cầu,vi,Hà Nội
 0.0,0.0,Khác,Không yêu cầu,en,Khác
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,tiếng anh,vi,Hà Nội
 1.0,3.0,kotlin,tiếng anh,vi,Hà Nội
+1.0,3.0,java,tiếng anh,vi,Hà Nội
 3.0,2.0,Khác,tiếng anh,en,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,java,tiếng anh,vi,Hồ Chí Minh
 1.0,3.0,javascript,tiếng anh,vi,Hồ Chí Minh
+1.0,3.0,java,tiếng anh,vi,Hồ Chí Minh
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hồ Chí Minh
 1.0,2.0,javascript,tiếng anh,en,Hồ Chí Minh
+1.0,2.0,c#,tiếng anh,en,Hồ Chí Minh
 1.0,4.0,Khác,Không yêu cầu,en,Hồ Chí Minh
 0.0,0.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Khác
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,5.0,c,Không yêu cầu,en,Hà Nội
 1.0,5.0,java,Không yêu cầu,en,Hà Nội
+1.0,5.0,c,Không yêu cầu,en,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,3.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,2.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,2.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,4.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c#,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
@@ -4136,16 +4136,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4172,16 +4172,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4208,16 +4208,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4244,16 +4244,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4280,16 +4280,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4316,16 +4316,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4352,16 +4352,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4388,16 +4388,16 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4412,18 +4412,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4450,18 +4450,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4488,18 +4488,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4533,18 +4533,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4571,18 +4571,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4607,8 +4607,8 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,tiếng nhật,en,Hà Nội
 1.0,4.0,Khác,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4636,79 +4636,6 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
 1.0,0.0,Khác,Không yêu cầu,vi,Khác
-2.0,4.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
-1.0,6.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,Khác,tiếng nhật,en,Hà Nội
-1.0,4.0,Khác,tiếng anh,en,Hà Nội
-1.0,3.0,Khác,tiếng anh,en,Hà Nội
-1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
-1.0,2.0,typescript,tiếng anh,en,Hà Nội
-1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,0.0,Khác,Không yêu cầu,vi,Khác
-1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
-1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
-1.0,6.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,4.0,Khác,tiếng nhật,en,Hà Nội
-1.0,4.0,Khác,tiếng anh,en,Hà Nội
-1.0,3.0,Khác,tiếng anh,en,Hà Nội
-1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,java,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
-1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
-1.0,2.0,typescript,tiếng anh,en,Hà Nội
-1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,tiếng anh,vi,Hà Nội
-1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
-1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,0.0,Khác,Không yêu cầu,vi,Khác
-1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
-1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
 2.0,4.0,Khác,tiếng anh,vi,Hồ Chí Minh
 1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,php,Không yêu cầu,vi,Hồ Chí Minh
@@ -4720,18 +4647,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4747,12 +4674,6 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
-2.0,4.0,Khác,tiếng anh,vi,Hồ Chí Minh
-1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
-1.0,2.0,php,Không yêu cầu,vi,Hồ Chí Minh
-1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
-1.0,6.0,python,Không yêu cầu,vi,Hà Nội
-1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
 1.0,6.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
@@ -4761,18 +4682,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4799,18 +4720,59 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
+1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
+1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,Khác,Không yêu cầu,vi,Khác
+1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
+1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
+2.0,4.0,Khác,tiếng anh,vi,Hồ Chí Minh
+1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hồ Chí Minh
+1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
+1.0,6.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
+1.0,6.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,4.0,Khác,tiếng nhật,en,Hà Nội
+1.0,4.0,Khác,tiếng anh,en,Hà Nội
+1.0,3.0,Khác,tiếng anh,en,Hà Nội
+1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4837,18 +4799,56 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
+1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
+1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,1.0,javascript,Không yêu cầu,vi,Hà Nội
+1.0,0.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,0.0,Khác,Không yêu cầu,vi,Khác
+1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+0.0,0.0,Khác,tiếng anh,en,Hồ Chí Minh
+1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng anh,vi,Hồ Chí Minh
+2.0,4.0,Khác,tiếng anh,vi,Hồ Chí Minh
+1.0,1.0,Khác,tiếng nhật,vi,Hà Nội
+1.0,2.0,php,Không yêu cầu,vi,Hồ Chí Minh
+1.0,4.0,c,tiếng anh,en,Hồ Chí Minh
+1.0,6.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,4.0,Khác,tiếng nhật,en,Hà Nội
+1.0,4.0,Khác,tiếng anh,en,Hà Nội
+1.0,3.0,Khác,tiếng anh,en,Hà Nội
+1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng anh,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
+1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
+1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
+1.0,4.0,java,Không yêu cầu,vi,Hà Nội
+1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4871,18 +4871,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,6.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4904,18 +4904,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,3.0,Khác,tiếng anh,en,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
@@ -4943,18 +4943,18 @@ Level,Year of Experience,Programming Language,Language,Lang,Location
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,1.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,0.0,Khác,Không yêu cầu,vi,Hà Nội
-1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,2.0,Khác,tiếng anh,vi,Hà Nội
-1.0,3.0,python,Không yêu cầu,vi,Hà Nội
+1.0,2.0,Khác,tiếng nhật,vi,Hà Nội
 1.0,3.0,java,Không yêu cầu,vi,Hà Nội
+1.0,3.0,python,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,Không yêu cầu,vi,Hồ Chí Minh
-1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
-1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
 1.0,3.0,kotlin,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,javascript,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,java,Không yêu cầu,en,Hồ Chí Minh
+1.0,3.0,c,Không yêu cầu,en,Hồ Chí Minh
 1.0,4.0,java,Không yêu cầu,vi,Hà Nội
-1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,2.0,typescript,tiếng anh,en,Hà Nội
+1.0,2.0,c#,tiếng anh,en,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hà Nội
 1.0,4.0,Khác,Không yêu cầu,vi,Hà Nội
 1.0,3.0,Khác,tiếng anh,vi,Hồ Chí Minh
